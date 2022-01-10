@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31911.196
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoiveAPICreationDapper", "MoiveAPICreationDapper.csproj", "{A7C3A73B-4978-4B06-AFB0-FE344047BE54}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A7C3A73B-4978-4B06-AFB0-FE344047BE54}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7C3A73B-4978-4B06-AFB0-FE344047BE54}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7C3A73B-4978-4B06-AFB0-FE344047BE54}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7C3A73B-4978-4B06-AFB0-FE344047BE54}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {06BF5E32-EA13-401E-91DB-82B1D6698D59}
+	EndGlobalSection
+EndGlobal
